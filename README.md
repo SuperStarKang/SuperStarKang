@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Welcom%To-nl-Kang's%20World!&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+To+Kang's+World+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperStarKang&show_icons=true&theme=github_dark_dimmed)
 
