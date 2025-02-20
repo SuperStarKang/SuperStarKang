@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalsfpdl03)](https://solved.ac/rkdalsfpdl03/)
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
